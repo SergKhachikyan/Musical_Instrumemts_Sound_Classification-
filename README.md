@@ -19,29 +19,34 @@ Musical_Instrumemts_Sound_Classification-/
 
 ## 🚀 Quick Start
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/SergKhachikyan/Musical_Instrumemts_Sound_Classification-.git
-   cd Musical_Instrumemts_Sound_Classification-
-   ```
-
-2. **Create a virtual environment and install dependencies**:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
-
-3. **Train the model**:
-   ```bash
-   python main.py --mode train
-   ```
-
-4. **Evaluate the model**:
-   ```bash
-   python main.py --mode evaluate
-   ```
-
+1. Clone the repository:  
+```  
+git clone https://github.com/SergKhachikyan/London_House_Price_Prediction_Advanced_Techniques.git
+```
+2. Change directory:
+```
+cd Musical_Instrumemts_Sound_Classification
+```
+3. Create virtual environment:
+```
+py -m venv venv
+```
+4. Activate virtual environment:
+```
+venv\Scripts\activate
+```
+5. Update the package manager:
+```
+py -m pip install -U pip
+```
+6.Install dependencies:
+```
+pip install -r requirements.txt  
+```
+7.Launch the notebook:
+```
+jupyter notebook untitled.ipynb
+```  
 ## 📊 Technologies Used
 
 - Python 3.x  
